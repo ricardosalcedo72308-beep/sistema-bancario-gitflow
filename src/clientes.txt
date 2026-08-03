@@ -20,3 +20,5 @@ Validaciones implementadas:
 Mejoras:
 - Validación de correo electrónico.
 - Validación de número telefónico.
+
+AJUSTE A
