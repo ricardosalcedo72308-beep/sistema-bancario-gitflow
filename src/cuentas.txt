@@ -16,3 +16,7 @@ En desarrollo
 Controles de seguridad:
 - Verificación de identidad.
 - Confirmación de creación de cuenta.
+
+Mejoras de seguridad:
+- Registro de auditoría.
+- Validación de datos obligatorios.
