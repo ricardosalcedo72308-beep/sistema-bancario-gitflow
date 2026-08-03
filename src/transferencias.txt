@@ -1,0 +1,14 @@
+======================================
+SISTEMA BANCARIO
+MÓDULO DE TRANSFERENCIAS
+======================================
+
+Funcionalidades
+
+- Transferir dinero entre cuentas
+- Validar saldo disponible
+- Registrar la transferencia
+- Confirmar la operación
+
+Estado:
+En desarrollo
