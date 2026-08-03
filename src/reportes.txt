@@ -16,3 +16,7 @@ En desarrollo
 Exportación:
 - Reporte en PDF.
 - Reporte en Excel.
+
+Mejoras:
+- Filtro por fechas.
+- Filtro por cliente.
