@@ -16,3 +16,7 @@ En desarrollo
 Auditoría:
 - Registro de fecha y hora.
 - Registro de cuenta origen.
+
+Auditoría avanzada:
+- Registro de usuario responsable.
+- Historial de movimientos.
