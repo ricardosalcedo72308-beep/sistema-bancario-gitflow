@@ -1,0 +1,14 @@
+======================================
+SISTEMA BANCARIO
+MÓDULO DE CUENTAS
+======================================
+
+Funcionalidades
+
+- Crear cuenta bancaria
+- Consultar cuenta
+- Actualizar datos de la cuenta
+- Cerrar cuenta
+
+Estado:
+En desarrollo
