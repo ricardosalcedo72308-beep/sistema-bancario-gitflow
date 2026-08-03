@@ -12,3 +12,7 @@ Funcionalidades
 
 Estado:
 En desarrollo
+
+Exportación:
+- Reporte en PDF.
+- Reporte en Excel.
