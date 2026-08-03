@@ -1,0 +1,14 @@
+======================================
+SISTEMA BANCARIO
+MÓDULO DE CLIENTES
+======================================
+
+Funcionalidades
+
+- Registrar cliente
+- Consultar cliente
+- Actualizar cliente
+- Eliminar cliente
+
+Estado:
+En desarrollo
