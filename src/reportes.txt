@@ -1,0 +1,14 @@
+======================================
+SISTEMA BANCARIO
+MÓDULO DE REPORTES
+======================================
+
+Funcionalidades
+
+- Consultar saldo
+- Generar reporte de clientes
+- Generar reporte de cuentas
+- Mostrar historial de movimientos
+
+Estado:
+En desarrollo
