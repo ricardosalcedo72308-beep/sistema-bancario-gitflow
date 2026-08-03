@@ -16,3 +16,7 @@ En desarrollo
 Validaciones implementadas:
 - Verificar que el documento no esté vacío.
 - Verificar que el nombre tenga mínimo 3 caracteres.
+
+Mejoras:
+- Validación de correo electrónico.
+- Validación de número telefónico.
