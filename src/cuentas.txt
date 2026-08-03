@@ -12,3 +12,7 @@ Funcionalidades
 
 Estado:
 En desarrollo
+
+Controles de seguridad:
+- Verificación de identidad.
+- Confirmación de creación de cuenta.
